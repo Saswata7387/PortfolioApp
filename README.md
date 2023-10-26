@@ -1,2 +1,2 @@
-# PortfolioApp
-A simple basic Portfolio App using Flutter
+# Portfolio-App
+A simple flutter based Portfolio App
